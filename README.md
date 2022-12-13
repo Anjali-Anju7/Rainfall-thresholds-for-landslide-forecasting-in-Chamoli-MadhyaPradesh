@@ -1,4 +1,4 @@
-# Rainfall-thresholds-for-landslide-forecasting-in-Chamoli-MadhyaPradesh
+Rainfall-thresholds-for-landslide-forecasting-in-Chamoli-MadhyaPradesh
 Probabilistic analysis using Bayes approach is considered to find out probabilistic rainfall thresholds.
 Empirical rainfall thresholds are calculated using least square regression and data is fitted using power-law.
 Empirical thresholds are also calculated using an algorithmic approach named CTRL-T(calculation of Thresholda for Rainfall induced Landslides Tool) which is done in R-software.
